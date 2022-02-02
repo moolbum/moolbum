@@ -7,9 +7,7 @@
 * Other Tools : Slack, Figma, Adobe Photoshop, Adobe illustrator
 ```
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moolbum&show_icons=true&theme=radical)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={moolbum})](https://solved.ac/{moolbum})
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={moolbum})](https://solved.ac/{moolbum})
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={moolbum})](https://solved.ac/{moolbum})
+
 <!--
 **moolbum/moolbum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
