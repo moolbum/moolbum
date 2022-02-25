@@ -18,7 +18,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-![Blogger](https://img.shields.io/badge/velog-21C393?style=for-the-badge&logo=blogger&logoColor=white)("https://velog.io/@moolbum")  
+![Blogger](https://img.shields.io/badge/velog-21C393?style=for-the-badge&logo=blogger&logoColor=white)  
 
   
 <a href="https://velog.io/@moolbum">
