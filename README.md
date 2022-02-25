@@ -1,6 +1,6 @@
 <div align=center> 
   
-![header](https://capsule-render.vercel.app/api?desc=Front-end%20Developer%20&text=Yongwoo%20Lee&type=waving&height=270&customColorList=1&fontColor=ffffff&fontAlignY=35&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?desc=Front-end%20Developer%20&text=Yongwoo%20Lee&type=waving&height=270&customColorList=1&fontSize=71&fontColor=ffffff&fontAlignY=35&descSize=20&descAlignY=55&descAlign=64)
 
 ## ⚙️ Front-end Skills ⚙️
 <br>
