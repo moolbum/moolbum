@@ -17,24 +17,11 @@
 <br>
   
 ## ⚙️ Connect ⚙️
-<br>  
-<a href="https://velog.io/@moolbum">
-<img
-src="http://img.shields.io/badge/-Velog-20C997?style=flat&logo=velog&link=https://velog.io/@moolbum"
-style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<br>
 
-  
-<a href="https://www.instagram.com/94_yongyong_lee/?hl=ko">
-<img
-src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/94_yongyong_lee/?hl=ko"
-style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-  
-<a href="mailto:dyddn304@gmail.com">
-<img
-src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dyddn304@gmail.com"
-style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+<a href="https://velog.io/@moolbum">![Blogger](https://img.shields.io/badge/Velog-22C997?style=for-the-badge&logo=blogger&logoColor=white)</a><a href="https://www.instagram.com/94_yongyong_lee/?hl=ko">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a><a href="mailto:dyddn304@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dyddn304@gmail.com)</a>  
+
+
   
 <br>   
 <br>   
