@@ -19,8 +19,7 @@
 
 <a href="https://git-scm.com/">![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</a><a href="https://github.com/moolbum">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-<br>
-<br>
+
   
 ## ⚙️ Connect ⚙️
 <br>
@@ -28,9 +27,7 @@
 <a href="https://velog.io/@moolbum">![Blogger](https://img.shields.io/badge/Velog-22C997?style=for-the-badge&logo=blogger&logoColor=white)</a><a href="https://www.instagram.com/94_yongyong_lee/?hl=ko">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a><a href="mailto:dyddn304@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dyddn304@gmail.com)</a>  
 
 
-  
-<br>   
-<br>   
+   
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moolbum&show_icons=true&theme=tokyonight)
 
