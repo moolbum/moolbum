@@ -31,7 +31,7 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moolbum&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moolbum&hide=shell&layout=compact)](https://github.com/eslerkang)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moolbum&hide=shell&layout=compact)](https://github.com/moolbum)
   
 </div>
 
