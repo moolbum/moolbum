@@ -23,7 +23,7 @@
 ## ⚙️ Connect ⚙️
 <br>
 
-<a href='https://velog.io/@moolbum'>![Blogger](https://img.shields.io/badge/Blog-22C997?style=for-the-badge&logo=blogger&logoColor=white)</a><a href="https://www.instagram.com/94_yongyong_lee/?hl=ko">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a><a href="mailto:dyddn304@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dyddn304@gmail.com)</a>  
+<a href='https://velog.io/@moolbum'>![Blogger](https://img.shields.io/badge/Blog-22C997?style=for-the-badge&logo=blogger&logoColor=white)</a><a href="https://www.instagram.com/94_yongyong_lee/?hl=ko">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a><a href="mailto:dyddn304@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dyddn304@gmail.com)</a><a href="https://www.linkedin.com/in/%EC%9A%A9%EC%9A%B0-%EC%9D%B4-a12741317/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
    
