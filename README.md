@@ -14,6 +14,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<a href="https://styled-components.com/">![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)</a>
   
 
+
   
 
 
@@ -25,12 +26,6 @@
 
 <a href='https://velog.io/@moolbum'>![Blogger](https://img.shields.io/badge/Blog-22C997?style=for-the-badge&logo=blogger&logoColor=white)</a><a href="https://www.instagram.com/94_yongyong_lee/?hl=ko">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a><a href="mailto:dyddn304@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dyddn304@gmail.com)</a><a href="https://www.linkedin.com/in/%EC%9A%A9%EC%9A%B0-%EC%9D%B4-a12741317/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-
-   
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moolbum&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moolbum&hide=shell&layout=compact)](https://github.com/moolbum)
   
 </div>
 
